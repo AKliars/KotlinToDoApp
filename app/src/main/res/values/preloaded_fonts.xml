@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/armata</item>
+        <item>@font/audiowide</item>
+        <item>@font/black_and_white_picture</item>
+        <item>@font/montserrat_alternates_thin</item>
+        <item>@font/orbitron_medium</item>
+    </array>
+</resources>
